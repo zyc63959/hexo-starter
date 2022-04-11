@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Tasker配置教程站
+subtitle: 'Tasker中文站'
+description: 'Tasker配置教程站是一个分享Tasker配置和教程的中文网站,Tasker基础使用教程安卓入门中文实例图详细配置技巧分享高实用配置；本站的教程主要以个人在使用Tasker过程中总结的经验为主，辅以图片说明，部分附带视频演示；并且是个人长时间使用的配置，无需root。'
+keywords: Tasker,配置,教程,android,安卓,profiles,course,手机,玩家
+author: 记忆水晶
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://taskerm.com
+permalink: :year/:month/:day/:title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
