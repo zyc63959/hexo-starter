@@ -97,10 +97,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: landscape
 
 # netlify cms 
 skip_render: admin/**
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
